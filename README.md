@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Mukity
 - 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently learning an android application called SBEM(Small Business Employee Management
+- 🌱 I’m currently working on an android application called SBEM(Small Business Employee Management)
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me via:
 - Jacob97mukity@gmail.com or
